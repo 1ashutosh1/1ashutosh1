@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/1ashutosh1](https://github.com/1ashutosh1)
 
-- 💬 Ask me about **HTML5, CSS, JS, NodeJs, ReactJS, MongoDB**
+- 💬 Ask me about **JS, ReactJS,React Native, NodeJs, ExpressJs, MongoDB, MySQL**
 
 - 📫 How to reach me **at8969927@gmail.com**
 
